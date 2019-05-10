@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  /* margin-top: 20%; */
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.time{
+  font-size: 70px;
+
+}
+.minute{
+  padding-left: 50px;
+  padding-right: 50px; 
+}
+.indicators{
+  color: #97A4A6;
+}
+
+
